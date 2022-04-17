@@ -1,0 +1,2 @@
+./bin/rails g scaffold contacts first_name:string last_name:string email:string  company_name:string comment:string is_broker:boolean
+is_charterer:boolean is_owner:boolean disabled:boolean
